@@ -2,9 +2,7 @@
 
 Séminaire doctoral de l'équipe-projet ObTIC (Observatoire des textes, des idées et des corpus).
 
-    SCAI, salle du conseil, 13/03/2025, 10h-12h
+    SCAI, salle du conseil, 02/05/2025, 11h-12h
 
-* en visio : <a href="https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1">`https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1`</a>
+* en visio : <a href="https://rendez-vous.renater.fr/motasem-alrahabi_9befaf-214f00-ef08dc">`https://rendez-vous.renater.fr/motasem-alrahabi_9befaf-214f00-ef08dc`</a>
 
-# -Seminaire_doctoral_ObTIC_020525
-# Seminaire_doc_ObTIC_020525

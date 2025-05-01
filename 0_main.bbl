@@ -1,0 +1,201 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{babinski1934oeuvre}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Babinski},
+         familyi={B\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BJA}{%
+         family={Barr{\'e}},
+         familyi={B\bibinitperiod},
+         given={J.-A.},
+         giveni={J\bibinithyphendelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bureaux du progrès médical (Paris)}%
+    }
+    \strng{namehash}{BJBJA1}
+    \strng{fullhash}{BJBJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \field{note}{\url{https://patrimoine.sorbonne-universite.fr/fonds/item/3486-oeuvres-completes-de-j-m-charcot-tome-4-lecons-sur-les-maladies-du-systeme-nerveux}}
+    \field{title}{\OE{}uvre scientifique}
+    \field{year}{1934}
+  \endentry
+
+  \entry{brissaud1893}{book}{}
+    \name{author}{3}{}{%
+      {{hash=B�}{%
+         family={Brissaud},
+         familyi={B\bibinitperiod},
+         given={Édouart},
+         giveni={�\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Charcot},
+         familyi={C\bibinitperiod},
+         given={Jean-Martin},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=BDM}{%
+         family={Bourneville},
+         familyi={B\bibinitperiod},
+         given={Désiré\bibnamedelima Magloire},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bureaux du progrès médical (Paris)}%
+    }
+    \strng{namehash}{B�+1}
+    \strng{fullhash}{B�CJMBDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1893}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \field{note}{\url{https://patrimoine.sorbonne-universite.fr/fonds/item/3486-oeuvres-completes-de-j-m-charcot-tome-4-lecons-sur-les-maladies-du-systeme-nerveux?offset=1}}
+    \field{title}{\OE{}uvres complètes de J. M. Charcot. Tome 4. Leçons sur
+  les maladies du système nerveux}
+    \field{year}{1893}
+  \endentry
+
+  \entry{camargo2023}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CCHF}{%
+         family={Camargo},
+         familyi={C\bibinitperiod},
+         given={Carlos Henrique\bibnamedelima Ferreira},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Coutinho},
+         familyi={C\bibinitperiod},
+         given={L{\'e}o},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CNY}{%
+         family={Correa\bibnamedelima Neto},
+         familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Ylmar},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Engelhardt},
+         familyi={E\bibinitperiod},
+         given={Eliasz},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MFP}{%
+         family={Maranh{\~a}o\bibnamedelima Filho},
+         familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Pericles},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=THAG}{%
+         family={Teive},
+         familyi={T\bibinitperiod},
+         given={H{\'e}lio Afonso\bibnamedelima Ghizoni},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciELO Brasil}%
+    }
+    \strng{namehash}{CCHF+1}
+    \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{note}{\url{https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0043-1775984.pdf}}
+    \field{pages}{1098\bibrangedash 1111}
+    \field{title}{Jean-{M}artin {C}harcot: the polymath}
+    \field{volume}{81}
+    \field{journaltitle}{Arquivos de Neuro-psiquiatria}
+    \field{year}{2023}
+  \endentry
+
+  \entry{costachescu2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Costachescu},
+         familyi={C\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{howpublished}{\url{https://www.lingvistica.ro/imagini/Champs-semantiques.pdf}}
+    \field{note}{Consulté le \today}
+    \field{title}{Les champs linguistiques}
+    \field{year}{2024}
+  \endentry
+
+  \entry{walusinski}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WO1}
+    \strng{fullhash}{WO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2025}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{\url{http://ishn.org/}}
+    \field{note}{Consulté le \today}
+    \field{title}{Jean-Martin Charcot’s Birth Bicentennia}
+    \field{year}{2025}
+  \endentry
+\enddatalist
+\endinput

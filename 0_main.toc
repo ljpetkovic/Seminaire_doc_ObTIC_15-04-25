@@ -1,0 +1,5 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {2}{Contributions de Charcot}{3}{0}{1}
+\beamer@sectionintoc {3}{Évaluation quantitative}{5}{0}{2}
+\beamer@sectionintoc {4}{Évaluation qualitative}{9}{0}{3}
+\beamer@sectionintoc {5}{Conclusion}{18}{0}{4}
